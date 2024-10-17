@@ -1,0 +1,7 @@
+{
+  "name": "haveit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
